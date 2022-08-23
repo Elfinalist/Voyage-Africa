@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Voyage-Africa/static/css/main.b6498f69.css",
+    "main.js": "/Voyage-Africa/static/js/main.71d29ca5.js",
+    "static/js/787.dfd922a2.chunk.js": "/Voyage-Africa/static/js/787.dfd922a2.chunk.js",
+    "static/media/img-18.jpg": "/Voyage-Africa/static/media/img-18.1b9c17ea8c7ec9f448a5.jpg",
+    "static/media/img-17.jpg": "/Voyage-Africa/static/media/img-17.83feaae60ac5d6f309dd.jpg",
+    "static/media/img-16.jpg": "/Voyage-Africa/static/media/img-16.cbb898ff81dadac683c1.jpg",
+    "index.html": "/Voyage-Africa/index.html",
+    "main.b6498f69.css.map": "/Voyage-Africa/static/css/main.b6498f69.css.map",
+    "main.71d29ca5.js.map": "/Voyage-Africa/static/js/main.71d29ca5.js.map",
+    "787.dfd922a2.chunk.js.map": "/Voyage-Africa/static/js/787.dfd922a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6498f69.css",
+    "static/js/main.71d29ca5.js"
+  ]
+}
